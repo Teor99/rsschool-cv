@@ -28,3 +28,7 @@ function generateHashtag(str) {
 - **JS:** some codewars tasks 8-6 lvl
 - **Java:** https://javarush.ru/ course tasks, pet project - WOWLK Auction House statistics, [link](https://github.com/Teor99/WOWSnifferServer) (no client side, just console app wth db)
 - **SQL:** https://stepik.org/ course, work with MySQL from java app by JDBC, Hibernate
+
+### Language:
+- Russian - native
+- English level - A2
